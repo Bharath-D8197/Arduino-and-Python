@@ -1,6 +1,5 @@
-tinkercad link for alcohol detector project:https://www.tinkercad.com/things/b6KtloQvwjT-alcohol-detector
-tinkercad link for lights and fan controlled by ir remote project : https://www.tinkercad.com/things/3cF9qso50cU-ir-remote-with-led
-
+tinkercad link for alcohol detector project:https://www.tinkercad.com/things/b6KtloQvwjT-frantic-bruticus/editel?sharecode=vx7vONCRv7vvQvQmaHK7Zf3H8K5CKSZ29850_UEhq0c
+tinkercad link for lights and fan controlled by ir remote project :https://www.tinkercad.com/things/3cF9qso50cU-ir-remote-with-led/editel?sharecode=Vr0DYUxxHcqKjUlZAk_75GVrULZs2Co3yhkMR4lfAm4
 
 IRremote Library:
 <IRremote.h>
