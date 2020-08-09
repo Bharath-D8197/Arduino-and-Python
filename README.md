@@ -1,6 +1,5 @@
-tinkercad link for alcohol detector project:https://www.tinkercad.com/things/b6KtloQvwjT-frantic-bruticus/editel?sharecode=vx7vONCRv7vvQvQmaHK7Zf3H8K5CKSZ29850_UEhq0c
-tinkercad link for lights and fan controlled by ir remote project :https://www.tinkercad.com/things/3cF9qso50cU-ir-remote-with-led/editel?sharecode=Vr0DYUxxHcqKjUlZAk_75GVrULZs2Co3yhkMR4lfAm4
-
+tinkercad link for alcohol detector project:https://www.tinkercad.com/things/b6KtloQvwjT-alcohol-detector/editel?sharecode=ZmGMkMBd8hZyZAIxhAeIrf6eMLJs7Ma5PL5Z2L5BKl0
+tinkercad link for lights and fan controlled by ir remote project :https://www.tinkercad.com/things/3cF9qso50cU-ir-remote-with-led/editel?sharecode=Sogr1YKkNU9w0bTGKedPfwuK6GVgogQpXxcyytNIVqE
 IRremote Library:
 <IRremote.h>
 IRremote, by Ken Shirriff, allows you to receive or transmit Infrared Remote Control codes. You can make your projects controlled by a remote, or make them control other devices like televisions and stereo components.
